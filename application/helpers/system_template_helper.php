@@ -62,7 +62,7 @@
   <!-- aside -->
   <div id="aside" class="app-aside modal fade nav-dropdown">
   	<!-- fluid app aside -->
-    <div class="left navside light-green-400 dk" layout="column">
+    <div class="left navside indigo-500 dk" layout="column">
     
   	  <div class="navbar no-radius">
         <!-- brand -->
@@ -81,7 +81,7 @@
                 </li>                               
                 <li class='<?=(sidebar($sidebar, ['dashboard'])) ? 'active' : ''?>'> 
                   <a href="<?= base_url()?>dashboard" >
-                    <span class="nav-icon">
+                    <span class="nav-icon" style="color:black">
                       <i class="fa fa-dashboard">
                       </i>
                     </span>
@@ -91,7 +91,7 @@
                 <li class='<?=(sidebar($sidebar, ['application'])) ? 'active' : ''?>'> 
                   <a href="<?= base_url()?>application_form" >
                     <span class="nav-icon">
-                      <i class="fa fa-edit">
+                      <i class="fa fa-file-text-o" style="color:black">
                       </i>
                     </span>
                     <span class="nav-text">Application </span>
@@ -100,7 +100,7 @@
                 <li class='<?=(sidebar($sidebar, ['report'])) ? 'active' : ''?>'> 
                   <a href="<?= base_url()?>reports" >
                     <span class="nav-icon">
-                      <i class="fa fa-bars">
+                      <i class="fa fa-bar-chart" style="color:black">
                       </i>
                     </span>
                     <span class="nav-text">Reports </span>

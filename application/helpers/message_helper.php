@@ -32,7 +32,7 @@ define('DEFAULT_LOGIN_PASSWORD','password1234');
 define('CHAR_SET' ,'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789$11<>?!@#$%^&*()~\/.');
 define('USER', 'obosystems');
 define('SYSTEM_NAME','Office of the Building Official');
-define('SYSTEM_ALT','Office of B.O');
+define('SYSTEM_ALT','OBO');
 define('SYSTEM_MODULE', 'LOGIN');
 define('GENDER',['Male','male','Female','female']);
 define('KB', 1024);

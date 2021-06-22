@@ -1,4 +1,5 @@
 <?php
+    defined('BASEPATH') OR exit('No direct script access allowed');
     class Application_form extends MY_Controller
     {
         private $data = [];
