@@ -18,7 +18,7 @@
 			<div class="box-body">
 				<div class="row">
 					<div class="col-xs-12 col-sm-4">
-						<div class="box p-a" style="border: 1px solid black">
+						<div class="box p-a" style="border: 1px solid gray">
 							<div class="pull-left m-r">
 								<span class="w-48 rounded accent">
 									<i class="fa fa-envelope"></i></i>
@@ -34,7 +34,7 @@
 					</div>
 
 					<div class="col-xs-12 col-sm-4">
-						<div class="box p-a" style="border: 1px solid black">
+						<div class="box p-a" style="border: 1px solid gray">
 							<div class="pull-left m-r">
 								<span class="w-48 rounded accent">
 									<i class="fa fa-envelope"></i></i>
@@ -50,7 +50,7 @@
 					</div>
 
 					<div class="col-xs-12 col-sm-4">
-						<div class="box p-a" style="border: 1px solid black">
+						<div class="box p-a" style="border: 1px solid gray">
 							<div class="pull-left m-r">
 								<span class="w-48 rounded accent">
 									<i class="fa fa-envelope"></i></i>
