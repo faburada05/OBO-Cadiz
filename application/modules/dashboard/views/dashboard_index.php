@@ -73,4 +73,4 @@
 <?php
 	main_footer();
 ?>
-<script src="<?php echo base_url()?>/assets/js/dashboard/index.js"></script>
+<script src="<?php echo base_url()?>/assets/js/dashboard/dashboard.js"></script>
